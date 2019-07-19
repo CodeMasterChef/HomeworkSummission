@@ -1,2 +1,7 @@
-# HomeworkSummission
-Le Van Ninh homework for Data Science class from DevC hosted by CoderSchool
+# Homework Summission
+
+The homework for Developer Circles Vietnam Innovation Challenge 2019 hosted by CoderSchool.
+
+Class: Data Science
+
+Student: Le Van Ninh
